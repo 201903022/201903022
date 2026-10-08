@@ -34,7 +34,8 @@
   </tr>
 </table>
 
-</div>
+</div>  
+
 ## Technology arsenal
 
 <div align="center">

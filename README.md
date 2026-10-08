@@ -16,41 +16,25 @@
 <p><code>201903022@github ~ $ toolbox --list</code></p>
 
 <div align="center">
-  <table width="100%" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #30363d; font-family: monospace; padding: 14px;">
-    <tr>
-      <td>
-        <span style="color: #ff5f56; font-size: 13px;">●</span> 
-        <span style="color: #ffbd2e; font-size: 13px;">●</span> 
-        <span style="color: #27c93f; font-size: 13px;">●</span>
-        <span style="color: #8b949e; margin-left: 12px; font-size: 12px;">201903022@github: ~/skills</span>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding-top: 12px; line-height: 2.4;">
-        <span style="color: #58a6ff; font-weight: bold;">201903022@github</span>:<span style="color: #3fb950;">~/skills</span>$ ls -la<br/><br/>
-        
-        <img src="https://cdn.simpleicons.org/linux/FCC624" width="14" height="14" style="vertical-align: middle;" /> <code>linux/</code> &nbsp;
-        
-        <img src="https://cdn.simpleicons.org/gnubash/FFFFFF" width="14" height="14" style="vertical-align: middle;" /> <code>bash/</code> &nbsp;
-        
-        <img src="https://cdn.simpleicons.org/docker/2496ED" width="14" height="14" style="vertical-align: middle;" /> <code>docker/</code> &nbsp;
-        
-        <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="14" height="14" style="vertical-align: middle;" /> <code>kubernetes/</code> &nbsp;
-        
-        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="14" height="14" style="vertical-align: middle;" /> <code>typescript/</code> &nbsp;
-        
-        <img src="https://cdn.simpleicons.org/python/3776AB" width="14" height="14" style="vertical-align: middle;" /> <code>python/</code> &nbsp;
-        
-        <img src="https://cdn.simpleicons.org/fastapi/009688" width="14" height="14" style="vertical-align: middle;" /> <code>fastapi/</code> &nbsp;
-        
-        <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="14" height="14" style="vertical-align: middle;" /> <code>nestjs/</code> &nbsp;
-        
-        <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="14" height="14" style="vertical-align: middle;" /> <code>postgresql/</code>
-      </td>
-    </tr>
-  </table>
-</div>
 
+<table>
+  <tr>
+    <td align="left">
+      <b>201903022@github </b>:~$ ls /skills <br/><br/>
+      <img src="https://cdn.simpleicons.org/linux/FCC624" width="14" height="14" /> <code>linux/</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="14" height="14" /> <code>bash/</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="14" height="14" /> <code>docker/</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="14" height="14" /> <code>kubernetes/</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="14" height="14" /> <code>typescript/</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="14" height="14" /> <code>python/</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/fastapi/009688" width="14" height="14" /> <code>fastapi/</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="14" height="14" /> <code>nestjs/</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="14" height="14" /> <code>postgresql/</code>
+    </td>
+  </tr>
+</table>
+
+</div>
 ## Technology arsenal
 
 <div align="center">
